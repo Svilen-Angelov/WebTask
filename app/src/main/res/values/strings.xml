@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="filter_button">Filter by Date</string>
+    <string name="delete_button">Delete</string>
+    <string name="info_id_static">Invoice ID:</string>
+    <string name="info_date_static">Invoice Date:</string>
+    <string name="info_amount_static">Invoice Amount:</string>
+</resources>
